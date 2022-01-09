@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1641753664361">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1641753756687">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="4166755001" ref="index:dilly---soon:dilly---go-to-play:dilly---adout:dilly-book"/>
     <file name="index.css" crc="4003493642" ref="index"/>
     <file name="dilly---soon.css" crc="4258063041" ref="dilly---soon"/>
-    <file name="dilly---go-to-play.css" crc="404117705" ref="dilly---go-to-play"/>
+    <file name="dilly---go-to-play.css" crc="3796457136" ref="dilly---go-to-play"/>
     <file name="dilly---adout.css" crc="4076870452" ref="dilly---adout"/>
     <file name="dilly-book.css" crc="121132947" ref="dilly-book"/>
   </folder>
@@ -152,10 +152,6 @@
       <caption webpage="dilly---go-to-play" alt=""/>
     </file>
     <file name="hoshi_school_embarrassed2-u977-fr.png" crc="4038526316" ref="dilly---go-to-play"/>
-    <file name="u1008-4.png" crc="3822873587" ref="dilly---go-to-play"/>
-    <file name="logo_rombeplay12.png" crc="502988988" ref="dilly---go-to-play">
-      <caption webpage="dilly---go-to-play" alt=""/>
-    </file>
     <file name="sumi_cg_winter_frown_blush-u739-fr.png" crc="518787405" ref="dilly---adout"/>
     <file name="cg_cafe_rin_frown-u753-fr.png" crc="435773729" ref="dilly---adout"/>
     <file name="u1071-4.png" crc="419544342" ref="dilly-book"/>
@@ -207,9 +203,9 @@
     </file>
     <file name="u1269-9.png" crc="3988324722" ref="dilly-book"/>
   </folder>
-  <file name="index.html" crc="483702652" seo="true" mt="1641753658305" redirect="true"/>
-  <file name="dilly---go-to-play.html" crc="35215463" seo="true" mt="1641753659346" redirect="true"/>
-  <file name="dilly---soon.html" crc="467043791" seo="true" mt="1641753657574" redirect="true"/>
-  <file name="dilly---adout.html" crc="116527520" seo="true" mt="1641753658797" redirect="true"/>
-  <file name="dilly-book.html" crc="416853841" seo="true" mt="1641753660082" redirect="true"/>
+  <file name="index.html" crc="517587229" seo="true" mt="1641753746192" redirect="true"/>
+  <file name="dilly---go-to-play.html" crc="103744458" seo="true" mt="1641753746192" redirect="true"/>
+  <file name="dilly---soon.html" crc="427685964" seo="true" mt="1641753746192" redirect="true"/>
+  <file name="dilly---adout.html" crc="3870231494" seo="true" mt="1641753746192" redirect="true"/>
+  <file name="dilly-book.html" crc="164760985" seo="true" mt="1641753746192" redirect="true"/>
 </manifest>
