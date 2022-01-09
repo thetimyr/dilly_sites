@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1641733816562">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1641733868200">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="183730441" ref="index:dilly---soon:dilly---go-to-play:dilly---adout"/>
-    <file name="index.css" crc="89901896" ref="index"/>
+    <file name="index.css" crc="304797251" ref="index"/>
     <file name="dilly---soon.css" crc="408989210" ref="dilly---soon"/>
     <file name="dilly---go-to-play.css" crc="4111968247" ref="dilly---go-to-play"/>
     <file name="dilly---adout.css" crc="222946462" ref="dilly---adout"/>
@@ -135,7 +135,7 @@
       <caption webpage="dilly---adout" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3947187093" seo="true" mt="1641733813302" redirect="true"/>
+  <file name="index.html" crc="496713163" seo="true" mt="1641733860497" redirect="true"/>
   <file name="dilly---go-to-play.html" crc="4160093296" seo="true" mt="1641733813770" redirect="true"/>
   <file name="dilly---soon.html" crc="3818440221" seo="true" mt="1641733813644" redirect="true"/>
   <file name="dilly---adout.html" crc="519198434" seo="true" mt="1641733814539" redirect="true"/>
