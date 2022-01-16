@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1641753756687">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1642009325406">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="4166755001" ref="index:dilly---soon:dilly---go-to-play:dilly---adout:dilly-book"/>
     <file name="index.css" crc="4003493642" ref="index"/>
     <file name="dilly---soon.css" crc="4258063041" ref="dilly---soon"/>
-    <file name="dilly---go-to-play.css" crc="3796457136" ref="dilly---go-to-play"/>
+    <file name="dilly---go-to-play.css" crc="4261395173" ref="dilly---go-to-play"/>
     <file name="dilly---adout.css" crc="4076870452" ref="dilly---adout"/>
     <file name="dilly-book.css" crc="121132947" ref="dilly-book"/>
   </folder>
@@ -22,8 +22,9 @@
     <file name="require.js" crc="3951022091" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book"/>
   </folder>
   <folder name="images">
-    <file name="e75ffc6b4d0233267d047598e6400aa1.gif" crc="191956707" ref="index">
+    <file name="e75ffc6b4d0233267d047598e6400aa1.gif" crc="191956707" ref="index:dilly---go-to-play">
       <caption webpage="index" alt=""/>
+      <caption webpage="dilly---go-to-play" alt=""/>
     </file>
     <file name="u104-8.png" crc="4115349271" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book"/>
     <file name="u156-7.png" crc="3785377258" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book"/>
@@ -32,15 +33,16 @@
     </file>
     <file name="1582033937_roy-lichtenstein_vsthemes_ru-11.jpg" crc="3977334541" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book">
       <caption webpage="index" alt=""/>
+      <caption webpage="dilly---adout" alt=""/>
       <caption webpage="dilly---soon" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
       <caption webpage="dilly-book" alt=""/>
-      <caption webpage="dilly---adout" alt=""/>
     </file>
-    <file name="dilly.png" crc="141132703" ref="index:dilly---adout:dilly-book">
+    <file name="dilly.png" crc="141132703" ref="index:dilly---adout:dilly-book:dilly---go-to-play">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="dilly---adout" alt=""/>
+      <caption webpage="dilly---go-to-play" alt=""/>
       <caption webpage="dilly-book" alt=""/>
     </file>
     <file name="sumi_poseb_winteruni_eyesclosed_frown_blush.png" crc="188711888" ref="index">
@@ -57,26 +59,29 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u114-8.png" crc="64547691" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book"/>
-    <file name="group-57 (1).png" crc="497937559" ref="index">
+    <file name="group-57 (1).png" crc="497937559" ref="index:dilly---go-to-play">
       <caption webpage="index" alt=""/>
+      <caption webpage="dilly---go-to-play" alt=""/>
     </file>
-    <file name="sddddadasd.png" crc="110976595" ref="index">
+    <file name="sddddadasd.png" crc="110976595" ref="index:dilly---go-to-play">
       <caption webpage="index" alt=""/>
+      <caption webpage="dilly---go-to-play" alt=""/>
     </file>
-    <file name="fagle.png" crc="4000328325" ref="index">
+    <file name="fagle.png" crc="4000328325" ref="index:dilly---go-to-play">
       <caption webpage="index" alt=""/>
+      <caption webpage="dilly---go-to-play" alt=""/>
     </file>
     <file name="ллл-1024x576.jpg" crc="3831578000" ref="dilly---go-to-play:dilly---soon">
       <caption webpage="dilly---go-to-play" alt=""/>
     </file>
     <file name="u422-4.png" crc="25008509" ref="dilly---go-to-play"/>
     <file name="awdadwawd.png" crc="395682846" ref="dilly---go-to-play:dilly---soon">
-      <caption webpage="dilly---soon" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
+      <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="windows_10_logosvg.png" crc="3861355660" ref="dilly---go-to-play:dilly---soon">
-      <caption webpage="dilly---soon" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
+      <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="sumi_winteruni_smile_blush.png" crc="312193174" ref="dilly---soon">
       <caption webpage="dilly---soon" alt=""/>
@@ -84,17 +89,17 @@
     </file>
     <file name="u480-4.png" crc="509346414" ref="dilly---go-to-play"/>
     <file name="1280px-macos_wordmark_(2017)svg.png" crc="3790678728" ref="dilly---go-to-play:dilly---soon">
-      <caption webpage="dilly---soon" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
+      <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="drift_summeruni_frown_blush.png" crc="415797346" ref="dilly---go-to-play:dilly---soon">
-      <caption webpage="dilly---soon" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
+      <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="u554-4.png" crc="4027578369" ref="dilly---go-to-play"/>
     <file name="android_logo_2019_(stacked)svg.png" crc="3903006480" ref="dilly---go-to-play:dilly---soon">
-      <caption webpage="dilly---soon" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
+      <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="dilly-u526-fr.png" crc="3942907958" ref="dilly---go-to-play:dilly---soon"/>
     <file name="u657-4.png" crc="25008509" ref="dilly---go-to-play"/>
@@ -131,7 +136,7 @@
       <caption webpage="dilly---adout" alt=""/>
       <caption webpage="dilly-book" alt=""/>
     </file>
-    <file name="шаблон-a-favicon.ico" crc="141480295" ref="index"/>
+    <file name="шаблон-a-favicon.ico" crc="141480295" ref="index:dilly---go-to-play"/>
     <file name="classroom a st2 evening.jpg" crc="492481497" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -204,7 +209,7 @@
     <file name="u1269-9.png" crc="3988324722" ref="dilly-book"/>
   </folder>
   <file name="index.html" crc="517587229" seo="true" mt="1641753746192" redirect="true"/>
-  <file name="dilly---go-to-play.html" crc="103744458" seo="true" mt="1641753746192" redirect="true"/>
+  <file name="dilly---go-to-play.html" crc="4162097696" seo="true" mt="1642009317370" redirect="true"/>
   <file name="dilly---soon.html" crc="427685964" seo="true" mt="1641753746192" redirect="true"/>
   <file name="dilly---adout.html" crc="3870231494" seo="true" mt="1641753746192" redirect="true"/>
   <file name="dilly-book.html" crc="164760985" seo="true" mt="1641753746192" redirect="true"/>
