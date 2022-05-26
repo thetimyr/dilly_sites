@@ -1,16 +1,17 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1642009325406">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1653561351455">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="4166755001" ref="index:dilly---soon:dilly---go-to-play:dilly---adout:dilly-book"/>
-    <file name="index.css" crc="4003493642" ref="index"/>
-    <file name="dilly---soon.css" crc="4258063041" ref="dilly---soon"/>
-    <file name="dilly---go-to-play.css" crc="4261395173" ref="dilly---go-to-play"/>
-    <file name="dilly---adout.css" crc="4076870452" ref="dilly---adout"/>
-    <file name="dilly-book.css" crc="121132947" ref="dilly-book"/>
+    <file name="master_______-a.css" crc="3759540524" ref="index:dilly---soon:dilly---go-to-play:dilly---adout:dilly-book"/>
+    <file name="index.css" crc="4239548771" ref="index"/>
+    <file name="dilly---soon.css" crc="4205741446" ref="dilly---soon"/>
+    <file name="dilly---go-to-play.css" crc="278451325" ref="dilly---go-to-play"/>
+    <file name="dilly---adout.css" crc="4292624327" ref="dilly---adout"/>
+    <file name="dilly-book.css" crc="4091871455" ref="dilly-book"/>
   </folder>
   <folder name="fonts">
-    <file name="ttcommons-bold.woff" crc="3867701885"/>
+    <file name="ttcommons-bold.woff" crc="3789910490"/>
     <file name="ttcommons-bold.eot" crc="4117541410"/>
+    <file name="ttcommons-extrabold.eot" crc="516636536"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book"/>
@@ -22,7 +23,7 @@
     <file name="require.js" crc="3951022091" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book"/>
   </folder>
   <folder name="images">
-    <file name="e75ffc6b4d0233267d047598e6400aa1.gif" crc="191956707" ref="index:dilly---go-to-play">
+    <file name="e75ffc6b4d0233267d047598e6400aa1.gif" crc="191956707" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
     </file>
@@ -34,16 +35,16 @@
     <file name="1582033937_roy-lichtenstein_vsthemes_ru-11.jpg" crc="3977334541" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book">
       <caption webpage="index" alt=""/>
       <caption webpage="dilly---adout" alt=""/>
+      <caption webpage="dilly---go-to-play" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
       <caption webpage="dilly---soon" alt=""/>
-      <caption webpage="dilly---go-to-play" alt=""/>
-      <caption webpage="dilly-book" alt=""/>
     </file>
-    <file name="dilly.png" crc="141132703" ref="index:dilly---adout:dilly-book:dilly---go-to-play">
+    <file name="dilly.png" crc="141132703" ref="index:dilly---adout:dilly-book">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="dilly---adout" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
       <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly---adout" alt=""/>
     </file>
     <file name="sumi_poseb_winteruni_eyesclosed_frown_blush.png" crc="188711888" ref="index">
       <caption webpage="index" alt=""/>
@@ -59,15 +60,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u114-8.png" crc="64547691" ref="index:dilly---go-to-play:dilly---soon:dilly---adout:dilly-book"/>
-    <file name="group-57 (1).png" crc="497937559" ref="index:dilly---go-to-play">
+    <file name="group-57 (1).png" crc="497937559" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
     </file>
-    <file name="sddddadasd.png" crc="110976595" ref="index:dilly---go-to-play">
+    <file name="sddddadasd.png" crc="110976595" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
     </file>
-    <file name="fagle.png" crc="4000328325" ref="index:dilly---go-to-play">
+    <file name="fagle.png" crc="3964305866" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
     </file>
@@ -84,8 +85,8 @@
       <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="sumi_winteruni_smile_blush.png" crc="312193174" ref="dilly---soon">
-      <caption webpage="dilly---soon" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
+      <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="u480-4.png" crc="509346414" ref="dilly---go-to-play"/>
     <file name="1280px-macos_wordmark_(2017)svg.png" crc="3790678728" ref="dilly---go-to-play:dilly---soon">
@@ -100,6 +101,7 @@
     <file name="android_logo_2019_(stacked)svg.png" crc="3903006480" ref="dilly---go-to-play:dilly---soon">
       <caption webpage="dilly---go-to-play" alt=""/>
       <caption webpage="dilly---soon" alt=""/>
+      <caption webpage="dilly---soon" alt=""/>
     </file>
     <file name="dilly-u526-fr.png" crc="3942907958" ref="dilly---go-to-play:dilly---soon"/>
     <file name="u657-4.png" crc="25008509" ref="dilly---go-to-play"/>
@@ -110,7 +112,7 @@
     <file name="u579-4.png" crc="25008509" ref="dilly---soon"/>
     <file name="u588-4.png" crc="25008509" ref="dilly---soon"/>
     <file name="u602-4.png" crc="96533587" ref="dilly---soon"/>
-    <file name="u653-4.png" crc="72485881" ref="dilly---soon"/>
+    <file name="u653-4.png" crc="3851057257" ref="dilly---soon"/>
     <file name="miki_cg_smile.jpg" crc="4135469348" ref="dilly---adout">
       <caption webpage="dilly---adout" alt=""/>
     </file>
@@ -133,14 +135,14 @@
       <caption webpage="dilly---adout" alt=""/>
     </file>
     <file name="natsumi_cat_summeruni_open_blush.png" crc="505716264" ref="dilly---adout:dilly-book">
-      <caption webpage="dilly---adout" alt=""/>
       <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly---adout" alt=""/>
     </file>
-    <file name="шаблон-a-favicon.ico" crc="141480295" ref="index:dilly---go-to-play"/>
+    <file name="шаблон-a-favicon.ico" crc="141480295" ref="index"/>
     <file name="classroom a st2 evening.jpg" crc="492481497" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sumi_cg_winter_frown_blush.png" crc="503537735" ref="index:dilly-book">
+    <file name="sumi_cg_winter_frown_blush.png" crc="503537735" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="dilly-book" alt=""/>
     </file>
@@ -158,7 +160,6 @@
     </file>
     <file name="hoshi_school_embarrassed2-u977-fr.png" crc="4038526316" ref="dilly---go-to-play"/>
     <file name="sumi_cg_winter_frown_blush-u739-fr.png" crc="518787405" ref="dilly---adout"/>
-    <file name="cg_cafe_rin_frown-u753-fr.png" crc="435773729" ref="dilly---adout"/>
     <file name="u1071-4.png" crc="419544342" ref="dilly-book"/>
     <file name="nora_summeruni_smile_blush.png" crc="163863597" ref="dilly-book">
       <caption webpage="dilly-book" alt=""/>
@@ -197,20 +198,242 @@
       <caption webpage="dilly-book" alt=""/>
     </file>
     <file name="u1199-4.png" crc="4135003571" ref="dilly-book"/>
-    <file name="nza8pa.png" crc="229016248" ref="dilly-book">
+    <file name="cg_cafe_rin_frown.png" crc="435773729" ref="dilly---adout">
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly---adout" alt=""/>
+    </file>
+    <file name="sabby_summeruni_smile_blush.png" crc="3874582051" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sutemo.png" crc="153427281" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noranekogames.png" crc="3772771441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chie_summeruni_open.png" crc="126657777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2813-4.png" crc="73422624" ref="dilly---go-to-play"/>
+    <file name="nashstore-square-grey-rus.jpg" crc="3772104790" ref="dilly---go-to-play">
+      <caption webpage="dilly---go-to-play" alt=""/>
+    </file>
+    <file name="chie_summeruni_frown_blush-u2833-fr.png" crc="119618463" ref="dilly---go-to-play"/>
+    <file name="u1982-4.png" crc="469288445" ref="dilly---soon"/>
+    <file name="chie_summeruni_frown_blush.png" crc="514221045" ref="dilly---soon">
+      <caption webpage="dilly---soon" alt=""/>
+    </file>
+    <file name="nashstore-rectangle-grey-rus.jpg" crc="3908837775" ref="dilly---soon">
+      <caption webpage="dilly---soon" alt=""/>
+    </file>
+    <file name="flag_of_south_koreasvg.jpg" crc="3782775215" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из Кореи"/>
+      <caption webpage="dilly-book" alt="| Родом из Кореи"/>
+      <caption webpage="dilly-book" alt="| Родом из Кореи"/>
+    </file>
+    <file name="sfsdfsdf.png" crc="526620287" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
       <caption webpage="dilly-book" alt=""/>
     </file>
-    <file name="cg_cafe_rin_frown.png" crc="79781179" ref="dilly-book">
+    <file name="u1424-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="xdfxdfxdfdxf.png" crc="263460918" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
       <caption webpage="dilly-book" alt=""/>
     </file>
-    <file name="miki_cg_frown.jpg" crc="387946659" ref="dilly-book">
+    <file name="u1457-4.png" crc="3977358400" ref="dilly-book"/>
+    <file name="zsdzsdddd.png" crc="3815421781" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
       <caption webpage="dilly-book" alt=""/>
     </file>
-    <file name="u1269-9.png" crc="3988324722" ref="dilly-book"/>
+    <file name="u1463-4.png" crc="204030028" ref="dilly-book"/>
+    <file name="flag_of_the_people-s_republic_of_chinasvg.jpg" crc="3817737047" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из Китая"/>
+      <caption webpage="dilly-book" alt="| Родом из Китая"/>
+    </file>
+    <file name="opooo.png" crc="4056811208" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u2062-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2068-4.png" crc="3792781245" ref="dilly-book"/>
+    <file name="u2070-4.png" crc="340607638" ref="dilly-book"/>
+    <file name="1024px-flag_of_the_united_statessvg.jpg" crc="508981063" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из США"/>
+    </file>
+    <file name="u2106-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u2112-4.png" crc="289144521" ref="dilly-book"/>
+    <file name="u2114-4.png" crc="4096316717" ref="dilly-book"/>
+    <file name="flag_of_the_cissvg.jpg" crc="528573860" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из Украины"/>
+      <caption webpage="dilly-book" alt="| Родом из Украины"/>
+      <caption webpage="dilly-book" alt="| Родом из Украины"/>
+      <caption webpage="dilly-book" alt="| Родом из Украины"/>
+    </file>
+    <file name="u2408-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u2414-4.png" crc="4086914311" ref="dilly-book"/>
+    <file name="u2416-4.png" crc="3963445157" ref="dilly-book"/>
+    <file name="flag_of_russia.jpg" crc="367161399" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из России"/>
+      <caption webpage="dilly-book" alt="| Родом из России"/>
+      <caption webpage="dilly-book" alt="| Родом из России"/>
+      <caption webpage="dilly-book" alt="| Родом из России"/>
+    </file>
+    <file name="u2372-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2378-3.png" crc="404059264" ref="dilly-book"/>
+    <file name="u2380-4.png" crc="3963445157" ref="dilly-book"/>
+    <file name="u2336-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u2342-4.png" crc="4060077384" ref="dilly-book"/>
+    <file name="u2344-4.png" crc="3963445157" ref="dilly-book"/>
+    <file name="flag_of_polandsvg.jpg" crc="3834538441" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из Польши"/>
+    </file>
+    <file name="u2300-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u2306-4.png" crc="4060077384" ref="dilly-book"/>
+    <file name="u2308-6.png" crc="42672399" ref="dilly-book"/>
+    <file name="u2264-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u2270-4.png" crc="4060077384" ref="dilly-book"/>
+    <file name="u2272-4.png" crc="3963445157" ref="dilly-book"/>
+    <file name="flag_of_the_philippinessvg.png" crc="457348207" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из Филиппин"/>
+    </file>
+    <file name="asdasd.png" crc="3886745725" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u2150-4.png" crc="177232029" ref="dilly-book"/>
+    <file name="u2156-4.png" crc="417126044" ref="dilly-book"/>
+    <file name="u2158-4.png" crc="221938392" ref="dilly-book"/>
+    <file name="u2186-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u2192-4.png" crc="4060077384" ref="dilly-book"/>
+    <file name="u2194-4.png" crc="3963445157" ref="dilly-book"/>
+    <file name="u2222-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2228-4.png" crc="4223236858" ref="dilly-book"/>
+    <file name="u2230-4.png" crc="3963445157" ref="dilly-book"/>
+    <file name="u1497-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u1503-4.png" crc="3855161410" ref="dilly-book"/>
+    <file name="u2255-4.png" crc="444484771" ref="dilly-book"/>
+    <file name="u2496-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2502-4.png" crc="371173999" ref="dilly-book"/>
+    <file name="u2504-4.png" crc="204030028" ref="dilly-book"/>
+    <file name="u1598-4.png" crc="4218636842" ref="dilly-book"/>
+    <file name="u2532-4.png" crc="518223750" ref="dilly-book"/>
+    <file name="u2538-4.png" crc="263067536" ref="dilly-book"/>
+    <file name="u2540-4.png" crc="3963445157" ref="dilly-book"/>
+    <file name="u1651-4.png" crc="486585501" ref="dilly-book"/>
+    <file name="u2571-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2577-4.png" crc="269899655" ref="dilly-book"/>
+    <file name="u2579-4.png" crc="340607638" ref="dilly-book"/>
+    <file name="u2607-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2613-4.png" crc="288209155" ref="dilly-book"/>
+    <file name="u2615-4.png" crc="146304324" ref="dilly-book"/>
+    <file name="u2643-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2649-4.png" crc="3951902789" ref="dilly-book"/>
+    <file name="u2651-4.png" crc="146304324" ref="dilly-book"/>
+    <file name="u2679-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2685-4.png" crc="331264877" ref="dilly-book"/>
+    <file name="u2687-4.png" crc="444484771" ref="dilly-book"/>
+    <file name="u1871-4.png" crc="256669723" ref="dilly-book"/>
+    <file name="u2715-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2721-4.png" crc="3809297486" ref="dilly-book"/>
+    <file name="u2723-4.png" crc="204030028" ref="dilly-book"/>
+    <file name="u2751-4.png" crc="4122699688" ref="dilly-book"/>
+    <file name="u2757-4.png" crc="4109137368" ref="dilly-book"/>
+    <file name="u2759-4.png" crc="444484771" ref="dilly-book"/>
+    <file name="aiko_cat_maid_open_blush.png" crc="4137940441" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u1492-4.png" crc="520963641" ref="dilly-book"/>
+    <file name="800px-flag_of_japansvg.jpg" crc="209506877" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из Японии"/>
+      <caption webpage="dilly-book" alt="| Родом из Японии"/>
+      <caption webpage="dilly-book" alt="| Родом из Японии"/>
+    </file>
+    <file name="aoto_casual_open_blush.png" crc="4224164931" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u1545-4.png" crc="238887577" ref="dilly-book"/>
+    <file name="chie_casual_open_blush.png" crc="3896178449" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="miho_casual_smile_blush.png" crc="451595786" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="miki_a_coat_open_blush.png" crc="359183295" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u1704-4.png" crc="389835150" ref="dilly-book"/>
+    <file name="sabby_winteruni_smile_blush.png" crc="61878240" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u1765-4.png" crc="4164024888" ref="dilly-book"/>
+    <file name="flag_of_moldovasvg.jpg" crc="3894384348" ref="dilly-book">
+      <caption webpage="dilly-book" alt="| Родом из Молдавы"/>
+    </file>
+    <file name="kana_wintersei_smile_blush.png" crc="529848663" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u1818-4.png" crc="4160181176" ref="dilly-book"/>
+    <file name="maid_a_casual_frown_blush.png" crc="67384389" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="student_a_summer_frown_blush.png" crc="116840767" ref="dilly-book">
+      <caption webpage="dilly-book" alt=""/>
+    </file>
+    <file name="u1924-4.png" crc="133395990" ref="dilly-book"/>
   </folder>
-  <file name="index.html" crc="517587229" seo="true" mt="1641753746192" redirect="true"/>
-  <file name="dilly---go-to-play.html" crc="4162097696" seo="true" mt="1642009317370" redirect="true"/>
-  <file name="dilly---soon.html" crc="427685964" seo="true" mt="1641753746192" redirect="true"/>
-  <file name="dilly---adout.html" crc="3870231494" seo="true" mt="1641753746192" redirect="true"/>
-  <file name="dilly-book.html" crc="164760985" seo="true" mt="1641753746192" redirect="true"/>
+  <file name="index.html" crc="4124034599" seo="true" mt="1653561341310" redirect="true"/>
+  <file name="dilly---go-to-play.html" crc="3898095979" seo="true" mt="1653561341643" redirect="true"/>
+  <file name="dilly---soon.html" crc="192238059" seo="true" mt="1653561341310" redirect="true"/>
+  <file name="dilly---adout.html" crc="534066427" seo="true" mt="1653561341310" redirect="true"/>
+  <file name="dilly-book.html" crc="3939004758" seo="true" mt="1653561341507" redirect="true"/>
 </manifest>
