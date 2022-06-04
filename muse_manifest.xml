@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1654338973796">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dilly.com" resolutions="1x" timestamp="1654339008254">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="3839103381" ref="index:dilly---soon:dilly---go-to-play:dilly---adout:dilly-book:dilly---books:dilly"/>
-    <file name="index.css" crc="3966099938" ref="index"/>
+    <file name="index.css" crc="3808942287" ref="index"/>
     <file name="dilly---soon.css" crc="215746272" ref="dilly---soon"/>
     <file name="dilly---go-to-play.css" crc="3997253877" ref="dilly---go-to-play"/>
     <file name="dilly---adout.css" crc="4275322463" ref="dilly---adout"/>
@@ -50,10 +50,10 @@
     <file name="dilly.png" crc="3827660530" ref="index:dilly:dilly---books">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="dilly-book" alt=""/>
+      <caption webpage="dilly" alt=""/>
       <caption webpage="dilly---adout" alt=""/>
       <caption webpage="dilly---go-to-play" alt=""/>
-      <caption webpage="dilly" alt=""/>
+      <caption webpage="dilly-book" alt=""/>
     </file>
     <file name="sumi_poseb_winteruni_eyesclosed_frown_blush.png" crc="188711888" ref="dilly">
       <caption webpage="index" alt=""/>
@@ -482,7 +482,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3878998452" seo="true" mt="1654338952936" redirect="true"/>
+  <file name="index.html" crc="326216968" seo="true" mt="1654338998883" redirect="true"/>
   <file name="dilly---go-to-play.html" crc="180605864" seo="true" mt="1654338465177" redirect="true"/>
   <file name="dilly---soon.html" crc="152578502" seo="true" mt="1654338464881" redirect="true"/>
   <file name="dilly---adout.html" crc="3903958364" seo="true" mt="1654338465426" redirect="true"/>
